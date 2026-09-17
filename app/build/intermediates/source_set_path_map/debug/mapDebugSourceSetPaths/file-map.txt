@@ -1,7 +1,0 @@
-com.example.mobileapp-pngs-0 /Users/serdar/projects/mobile/app/build/generated/res/pngs/debug
-com.example.mobileapp-resValues-1 /Users/serdar/projects/mobile/app/build/generated/res/resValues/debug
-com.example.mobileapp-packageDebugResources-2 /Users/serdar/projects/mobile/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.mobileapp-packageDebugResources-3 /Users/serdar/projects/mobile/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.mobileapp-debug-4 /Users/serdar/projects/mobile/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.mobileapp-debug-5 /Users/serdar/projects/mobile/app/src/debug/res
-com.example.mobileapp-main-6 /Users/serdar/projects/mobile/app/src/main/res
